@@ -13,6 +13,7 @@
 
 - The exported  data from the above has been saved under unique_titles.csv and the file can be found in the following link.
 
+https://github.com/Rangisal/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv
 
 
 - Then retiring_titles table has been created which includes the number of employees by their most recent job title which are about to retire. The diagram for the same as follows in retiring_titles.png
