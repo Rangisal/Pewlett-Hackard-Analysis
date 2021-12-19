@@ -13,10 +13,12 @@
 
 - The exported  data from the above has been saved under unique_titles.csv and the file can be found in the following link.
 
-https://github.com/Rangisal/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv
+   https://github.com/Rangisal/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv
 
 
-- Then retiring_titles table has been created which includes the number of employees by their most recent job title which are about to retire. The diagram for the same as follows in retiring_titles.png
+- Then retiring_titles table has been created which includes the number of employees by their most recent job title which are about to retire. The file can be found in the following ink. 
+
+
 
 ## Identifying the employees who are eligible to participate in a mentorship program
 - The mentorship_eligibility table has been created with the current employees who were born between January 1,1965 and December 31,1965. The data have been retrieve from the employees table, department employees table and the title table. 
