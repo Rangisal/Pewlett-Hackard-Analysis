@@ -34,7 +34,7 @@
   ![image](https://user-images.githubusercontent.com/93173498/146664342-bae41ddc-489f-4dc0-8717-258893d5766f.png)
 
 
-- There are ………. Of employees are qualified to be working in the mentorship program and as a percengtage it will eb ……………....
+- There are 1549 Of employees are qualified to be working in the mentorship program. If we take the percentage with the employees possibly leaving in next 5-10 years it will be just 2.1%. It is highly doubted that if there are enough people to train the new hirees who is going to accomadate the leaving employees. The proper promotion plan shoul be in take place to train the junior employees in the company before the senior staff leaves the company. 
  
 
 
