@@ -2,8 +2,8 @@
 
 # Overview of the analysis
   There are two main purposes of this project. 
-  1.	Determining the number of retiring employees per title 
-  2.	Identifying the employees who are eligible to participate in a mentorship program.
+  - Determining the number of retiring employees per title 
+  - Identifying the employees who are eligible to participate in a mentorship program.
   The following ERD has been used to analyse the above two purposes.
   ![image](https://user-images.githubusercontent.com/93173498/146663845-076b8bf1-4c0f-4277-9311-6af3018017d0.png)
 
