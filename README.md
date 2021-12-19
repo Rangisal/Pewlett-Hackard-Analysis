@@ -29,7 +29,7 @@
 
 
 ## Summary 
-- According to the above analysis it shows that total of 72458 people are most likely  to retire in next 5-10 years. The company has to have a proper hiring plan in place and should allocate the enough funds for the process. 
+- According to the above analysis it shows that total of 72458 people are most likely  to retire in next 5-10 years. The company has to have a proper hiring plan in place and should allocate the enough funds for the process. Almost 70% of that will be senior engineers and senior staff. The proper pans should take place to hire more people in engineering division. The participating for university / college intership programs must. 
 
   ![image](https://user-images.githubusercontent.com/93173498/146664342-bae41ddc-489f-4dc0-8717-258893d5766f.png)
 
