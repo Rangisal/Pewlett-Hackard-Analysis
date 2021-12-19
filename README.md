@@ -10,7 +10,8 @@
 ## Determining the number of retiring employees per title
 
 - The retirement titles that holds the titles of employees who were born between January 1,1952 and December 31,1955. DISTINCT ON statement has been used to create the table that contains the most recent of each employee. Then used the COUNT() function to create the table that has the number of retirement age employees by most recent job title and excluded the employees who have already left the company. 
-- The exported  data from the above has been saved under unique_titles.png file as follows. 
+- The exported  data from the above has been saved under unique_titles.csv and the file can be found in the following link.
+
 - Then retiring_titles table has been created which includes the number of employees by their most recent job title which are about to retire. The diagram for the same as follows in retiring_titles.png
 
 ## Identifying the employees who are eligible to participate in a mentorship program
