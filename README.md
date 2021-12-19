@@ -13,6 +13,7 @@
     https://github.com/Rangisal/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_Challenge.sql
     
 
+
 ## Determining the number of retiring employees per title
 
 - The retirement titles that holds the titles of employees who were born between January 1,1952 and December 31,1955. DISTINCT ON statement has been used to create the table   that contains the most recent of each employee. Then used the COUNT() function to create the table that has the number of retirement age employees by most recent job title   and excluded the employees who have already left the company.
@@ -28,6 +29,8 @@
    
 
 ## Identifying the employees who are eligible to participate in a mentorship program
+
+
 - The mentorship_eligibility table has been created with the current employees who were born between January 1,1965 and December 31,1965. The data have been retrieve from the   employees table, department employees table and the title table. 
 - The following link shows the above file's details. 
 
