@@ -30,6 +30,10 @@
 
 ## Summary 
 - According to the above analysis it shows that….of people are most likely  to retire in next 5-10 years. The company has to have a proper hiring plan in place and should allocate the enough funds for the process. 
+
+  ![image](https://user-images.githubusercontent.com/93173498/146664342-bae41ddc-489f-4dc0-8717-258893d5766f.png)
+
+
 - There are ………. Of employees are qualified to be working in the mentorship program and as a percengtage it will eb ……………..
  
 
