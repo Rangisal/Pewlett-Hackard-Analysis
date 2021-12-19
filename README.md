@@ -23,7 +23,9 @@
 
 ## Identifying the employees who are eligible to participate in a mentorship program
 - The mentorship_eligibility table has been created with the current employees who were born between January 1,1965 and December 31,1965. The data have been retrieve from the employees table, department employees table and the title table. 
-- The following image shows the output of the same.
+- The following link shows the above file's details. 
+
+
 
 ## Summary 
 - According the above analysis it shows that….of people are most likely  to retire in next 5-10 years. The company has to have a proper hiring plan in place and should allocate the enough funds for the process. 
